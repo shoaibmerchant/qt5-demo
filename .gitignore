@@ -1,0 +1,5 @@
+*.o
+*.stash
+qt5-demo
+Makefile
+
